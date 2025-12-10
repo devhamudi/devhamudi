@@ -24,7 +24,7 @@ Kurzbeschreibung, was es macht, Features und warum es spannend ist.
 ➡️ **Repo:** [Link einsetzen]
 
 ---
-
+<!--
 ## 📈 GitHub Stats
 
 <p align="center">
@@ -33,7 +33,7 @@ Kurzbeschreibung, was es macht, Features und warum es spannend ist.
 </p>
 
 ---
-
+-->
 ## 🤝 Connect with Me
 
 [🌐 Website](#) · [💼 Discord](https://discord.com/users/777174540307398668) · [🐦 Twitter](#) · [📧 Email](mailto:deine@mail.com)
