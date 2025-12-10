@@ -1,4 +1,4 @@
-# 👋 Hi, I'm **[Hamudi]**
+# 👋 Hi, I'm **Hamudi**
 
 ### 🚀 Developer • Creator • Lifelong Learner
 
