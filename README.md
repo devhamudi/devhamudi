@@ -1,4 +1,4 @@
-# 👋 Hi, I'm **[Dein Name]**
+# 👋 Hi, I'm **[Hamudi]**
 
 ### 🚀 Developer • Creator • Lifelong Learner
 
@@ -9,10 +9,10 @@ Willkommen auf meinem GitHub-Profil! Ich liebe es, Ideen in sauberen, skalierbar
 ## 🔧 Tech Stack
 
 **Languages:**
-🟦 TypeScript · 🐍 Python · ☕ Java · 🟧 JavaScript · 🔵 C#
+🟦 TypeScript · 🐍 Python · 🟧 JavaScript
 
 **Frameworks & Tools:**
-⚛️ React · 🧪 Node.js · 🌐 Express · 🐳 Docker · 🌱 Spring Boot · ⚙️ Git
+⚛️ React · 🧪 Node.js · 🌐 Next.js · 🐳 Docker · ⚙️ Git
 
 **Interests:**
 💡 Clean Architecture · 🧠 AI/ML · ☁️ Cloud · 🛠️ DevOps
