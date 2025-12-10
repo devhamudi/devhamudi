@@ -2,20 +2,17 @@
 
 ### 🚀 Developer • Creator • Lifelong Learner
 
-Willkommen auf meinem GitHub-Profil! Ich liebe es, Ideen in sauberen, skalierbaren Code zu verwandeln und ständig neue Technologien auszuprobieren.
+Willkommen auf meinem GitHub-Profil! Ich liebe es mich neuen Herausforderungen zu stellen und meine Fähigkeiten weiterzuentwickeln :)
 
 ---
 
 ## 🔧 Tech Stack
 
 **Languages:**
-🟦 TypeScript · 🐍 Python · 🟧 JavaScript
+🟦 TypeScript · 🐍 Python · 🟧 JavaScript · 🌙 LUA 
 
 **Frameworks & Tools:**
 ⚛️ React · 🧪 Node.js · 🌐 Next.js · 🐳 Docker · ⚙️ Git
-
-**Interests:**
-💡 Clean Architecture · 🧠 AI/ML · ☁️ Cloud · 🛠️ DevOps
 
 ---
 
@@ -24,16 +21,6 @@ Willkommen auf meinem GitHub-Profil! Ich liebe es, Ideen in sauberen, skalierbar
 ### 🔥 **Project 1 – Titel**
 
 Kurzbeschreibung, was es macht, Features und warum es spannend ist.
-➡️ **Repo:** [Link einsetzen]
-
-### 🔧 **Project 2 – Titel**
-
-Kurzbeschreibung, Tech Stack, Problem & Lösung.
-➡️ **Repo:** [Link einsetzen]
-
-### 📊 **Project 3 – Titel**
-
-Kurzbeschreibung, Technologien etc.
 ➡️ **Repo:** [Link einsetzen]
 
 ---
@@ -49,7 +36,7 @@ Kurzbeschreibung, Technologien etc.
 
 ## 🤝 Connect with Me
 
-[🌐 Website](#) · [💼 LinkedIn](#) · [🐦 Twitter](#) · [📧 Email](mailto:deine@mail.com)
+[🌐 Website](#) · [💼 Discord](https://discord.com/users/777174540307398668) · [🐦 Twitter](#) · [📧 Email](mailto:deine@mail.com)
 
 ---
 
@@ -57,5 +44,5 @@ Kurzbeschreibung, Technologien etc.
 
 * ⭐ Ich liebe es, neue Technologien auszuprobieren
 * 🧠 Ich arbeite gerne an Open-Source-Projekten
-* 📚 Aktuell lerne ich **[Technologie deiner Wahl]**
+* 📚 Aktuell lerne ich **[React Native]**
 * 🎯 Mein Ziel 2025: **Mehr Projekte veröffentlichen & mehr kollaborieren**
