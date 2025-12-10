@@ -28,7 +28,7 @@ Kurzbeschreibung, was es macht, Features und warum es spannend ist.
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=devhamudi&show_icons=true&theme=github_dark" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=devhamudi" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devhamudi&layout=compact&theme=github_dark" />
 </p>
 
