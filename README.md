@@ -15,7 +15,7 @@ Willkommen auf meinem GitHub-Profil! Ich liebe es mich neuen Herausforderungen z
 ⚛️ React · 🧪 Node.js · 🌐 Next.js · 🐳 Docker · ⚙️ Git
 
 ---
-
+<!--
 ## 📌 Projects & Highlights
 
 ### 🔥 **Project 1 – Titel**
@@ -24,6 +24,7 @@ Kurzbeschreibung, was es macht, Features und warum es spannend ist.
 ➡️ **Repo:** [Link einsetzen]
 
 ---
+-->
 <!--
 ## 📈 GitHub Stats
 
@@ -36,7 +37,7 @@ Kurzbeschreibung, was es macht, Features und warum es spannend ist.
 -->
 ## 🤝 Connect with Me
 
-[🌐 Website](#) · [💼 Discord](https://discord.com/users/777174540307398668) · [🐦 Twitter](#) · [📧 Email](mailto:deine@mail.com)
+[🌐 Website](#) · [💼 Discord](https://discord.com/users/777174540307398668) · [📧 Email](mailto:contact@hamudi-codings.de)
 
 ---
 
@@ -45,4 +46,4 @@ Kurzbeschreibung, was es macht, Features und warum es spannend ist.
 * ⭐ Ich liebe es, neue Technologien auszuprobieren
 * 🧠 Ich arbeite gerne an Open-Source-Projekten
 * 📚 Aktuell lerne ich **[React Native]**
-* 🎯 Mein Ziel 2025: **Mehr Projekte veröffentlichen & mehr kollaborieren**
+* 🎯 Mein Ziel 2026: **Meine Programmierfähigkeiten weiter verbessern**
