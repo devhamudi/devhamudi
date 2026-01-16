@@ -44,6 +44,5 @@ Kurzbeschreibung, was es macht, Features und warum es spannend ist.
 ## 💬 About Me
 
 * ⭐ Ich liebe es, neue Technologien auszuprobieren
-* 🧠 Ich arbeite gerne an Open-Source-Projekten
-* 📚 Aktuell lerne ich **[React Native]**
+* 📚 Aktuell lerne ich **React Native**
 * 🎯 Mein Ziel 2026: **Meine Programmierfähigkeiten weiter verbessern**
